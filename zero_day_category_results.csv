@@ -1,0 +1,3 @@
+Attack Category,Records,Detected,Missed,Detection Rate (%)
+Exploits,6583,6463,120,98.18
+Reconnaissance,2135,2104,31,98.55

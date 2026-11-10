@@ -1,0 +1,3 @@
+Threshold Type,Threshold,Total Unseen Attacks,Detected,Missed,Detection Rate (%)
+Default,0.5,8718,8543,175,97.99
+Optimized,0.4767,8718,8567,151,98.27

@@ -1,0 +1,11 @@
+Actual_Category,Records,Correct,Accuracy (%)
+Analysis,422.0,381.0,90.28
+Backdoor,314.0,314.0,100.0
+DoS,2483.0,2481.0,99.92
+Exploits,6583.0,6463.0,98.18
+Fuzzers,3674.0,3115.0,84.78
+Generic,8005.0,8005.0,100.0
+Normal,11200.0,10450.0,93.3
+Reconnaissance,2135.0,2104.0,98.55
+Shellcode,225.0,220.0,97.78
+Worms,28.0,28.0,100.0

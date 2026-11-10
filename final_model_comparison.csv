@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score
+Supervised Random Forest,0.9591,0.9632,0.9772,0.9702
+Isolation Forest,0.3942,0.9623,0.1144,0.2045
+Hybrid Detection,0.9561,0.959,0.9772,0.968
+Zero-Day Random Forest,0.9553,0.9715,0.9625,0.9669
